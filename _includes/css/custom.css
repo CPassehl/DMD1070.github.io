@@ -279,7 +279,7 @@ Media Queries
   }
 
   .site-title {
-    font-size: 1.2em;
+    font-size: .8em;    /* was 1.2 */
   }
 }
 
