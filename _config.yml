@@ -1,5 +1,5 @@
 # General Jekyll Config
-url: 
+url: /cp_DMD1070.github.io/
 markdown: kramdown
 highlighter: rouge
 kramdown:
